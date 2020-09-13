@@ -1,0 +1,17 @@
+﻿inqui_cod;inqui;UM;Tempo mediazione(minuti);orari
+1;SO2(Biossido di zolfo);ug/m3;60;1
+5;PM10;ug/m3;1440;0
+7;O3(Ozono);ug/m3;60;1
+8;NO2(Biossido di azoto);ug/m3;60;1
+9;NOX(Ossidi di azoto);ug/m3;60;1
+10;CO(Monossido di carbonio);mg/m3;60;1
+20;C6H6(Benzene);ug/m3;60;1
+21;C6H5-CH3(Toluene);ug/m3;60;1
+38;NO(Monossido di azoto);ug/m3;60;1
+78;C6H4(CH3)2 (P-xylene);;1440;1
+79;C6H5-CH2-CH3 (Ethylbenzene);;1440;1
+80;C6H4(CH3)2;;1440;1
+82;C6H4(CH3)2(o-xylene);ug/m3;60;1
+111;PM25;ug/m3;1440;0
+112;temperatura;C;1440;1
+113;umidità;;1440;1

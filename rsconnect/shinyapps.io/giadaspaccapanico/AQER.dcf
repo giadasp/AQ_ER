@@ -1,0 +1,12 @@
+name: AQER
+title: AQER
+username:
+account: giadaspaccapanico
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 990979
+bundleId: 2174630
+url: https://giadaspaccapanico.shinyapps.io/AQER/
+when: 1561392608.6898
+asMultiple: FALSE
+asStatic: FALSE
